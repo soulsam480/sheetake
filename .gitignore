@@ -1,0 +1,5 @@
+# Exclude dist folder
+dist/
+
+# Exclude dependencies
+node_modules/
