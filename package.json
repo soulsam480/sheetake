@@ -11,7 +11,7 @@
     "csv-parse": "^4.8.8",
     "express": "^4.17.1",
     "lodash": "^4.17.15",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nodemon": "^2.0.2",
     "rollup": "^2.0.5",
     "tslib": "^1.11.1",
