@@ -4,7 +4,7 @@
 
 ### Usage
 
-- **endpoint** > `https://sheetake.com//api/:spreadsheet/:sheet`
+- **endpoint** > `https://sheetake.com/api/:spreadsheet/:sheet`
 - **params** 
   - **spreadsheet** > your public spreadsheet id
   - **sheet** > your sheet number
